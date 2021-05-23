@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW 121 podpiska</string>
+    <string name="button_ok">ok</string>
+    <string name="button_del">Delete</string>
+    <string name="login">Введите ФИО</string>
+    <string name="password">Введите e-mail</string>
+</resources>
